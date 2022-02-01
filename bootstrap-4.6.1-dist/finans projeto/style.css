@@ -2,3 +2,12 @@
 	background: #ffc107;
 	color: white;
 }
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid;
+}
+
+footer p a {
+	margin: 5px 15 px;
+}
